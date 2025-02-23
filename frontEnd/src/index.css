@@ -1,4 +1,16 @@
-@import "tailwindcss";
+ @import "tailwindcss";
+
+/* @custom-variant dark (&:is(.dark *));
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+} */
+/* @import "tailwindcss"
 
 @plugin "tailwindcss-animate";
 
@@ -121,4 +133,4 @@
   body {
     @apply bg-background text-foreground;
   }
-}
+} */
